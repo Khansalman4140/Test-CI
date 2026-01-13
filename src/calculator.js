@@ -13,6 +13,11 @@ function multiply(a, b) {
 function print(value) {
   console.log(value);
 }
+
+function division(a, b) {
+  return a / b;
+}
+
 module.exports = {
   add,
   subtract,
